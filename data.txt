@@ -1,0 +1,5 @@
+Welcome to Coding Ninjas! Today's quote of the day is  utf-8utf-8utf-8{
+    "message" : "Be yourself; everyone else is already taken"
+}{
+    "message" : "Be yourself; everyone else is already taken"
+}
